@@ -7,3 +7,7 @@
  ## Requirements
  
  Python 3
+
+## Usage:
+
+python sentence_segmenter.py -i input.txt -o output.txt
